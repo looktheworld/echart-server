@@ -1,0 +1,78 @@
+[2016-08-16 17:53:07.340] [ERROR] normal - GET /
+[2016-08-16 17:53:07.346] [ERROR] console - Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:440:15)
+    at Function.Module._load (module.js:388:25)
+    at Module.require (module.js:468:17)
+    at require (internal/module.js:20:19)
+    at new View (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/view.js:43:49)
+    at Function.app.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/application.js:509:12)
+    at ServerResponse.res.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/response.js:900:7)
+    at /Users/pingda/Desktop/任务/art_imgExport/app.js:60:9
+    at Layer.handle_error (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/layer.js:58:5)
+    at trim_prefix (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/index.js:268:13)
+[2016-08-16 17:53:07.986] [ERROR] normal - GET /favicon.ico
+[2016-08-16 17:53:07.987] [ERROR] console - Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:440:15)
+    at Function.Module._load (module.js:388:25)
+    at Module.require (module.js:468:17)
+    at require (internal/module.js:20:19)
+    at new View (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/view.js:43:49)
+    at Function.app.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/application.js:509:12)
+    at ServerResponse.res.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/response.js:900:7)
+    at /Users/pingda/Desktop/任务/art_imgExport/app.js:60:9
+    at Layer.handle_error (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/layer.js:58:5)
+    at trim_prefix (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/index.js:268:13)
+[2016-08-16 17:53:08.201] [ERROR] normal - GET /favicon.ico
+[2016-08-16 17:53:08.202] [ERROR] console - Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:440:15)
+    at Function.Module._load (module.js:388:25)
+    at Module.require (module.js:468:17)
+    at require (internal/module.js:20:19)
+    at new View (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/view.js:43:49)
+    at Function.app.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/application.js:509:12)
+    at ServerResponse.res.render (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/response.js:900:7)
+    at /Users/pingda/Desktop/任务/art_imgExport/app.js:60:9
+    at Layer.handle_error (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/layer.js:58:5)
+    at trim_prefix (/Users/pingda/Desktop/任务/art_imgExport/node_modules/express/lib/router/index.js:268:13)
+[2016-08-16 17:53:40.653] [INFO] normal - GET /
+[2016-08-16 17:53:40.812] [INFO] normal - GET /stylesheets/style.css
+[2016-08-16 17:56:07.655] [WARN] normal - GET /
+[2016-08-16 17:56:07.873] [WARN] normal - GET /stylesheets/style.css
+[2016-08-16 17:56:13.726] [INFO] echarts - query==={}
+[2016-08-16 17:56:16.239] [INFO] console - exit=0
+[2016-08-16 17:56:16.242] [INFO] normal - GET /echarts
+[2016-08-16 17:57:51.641] [INFO] console - stderr=Can't open '/Users/pingda/Desktop/任务/art_imgExport/routes/echarts-convert.js'
+
+[2016-08-16 17:57:53.357] [INFO] console - exit=255
+[2016-08-16 17:57:53.359] [INFO] normal - POST /echarts
+[2016-08-16 18:00:02.240] [INFO] echarts - query==={}
+[2016-08-16 18:00:04.906] [INFO] console - exit=0
+[2016-08-16 18:00:04.909] [INFO] normal - GET /echarts
+[2016-08-16 18:00:32.377] [INFO] console - stderr=Can't open '/Users/pingda/Desktop/任务/art_imgExport/routes/echarts-convert.js'
+
+[2016-08-16 18:00:34.243] [INFO] console - exit=255
+[2016-08-16 18:00:34.249] [INFO] normal - POST /echarts
+[2016-08-16 18:03:13.797] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:03:15.398] [INFO] console - stderr=Can't open '/Users/pingda/Desktop/任务/art_imgExport/routes/echarts-convert.js'
+
+[2016-08-16 18:03:17.459] [INFO] console - exit=255
+[2016-08-16 18:03:17.468] [INFO] normal - POST /echarts
+[2016-08-16 18:04:02.658] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:04:04.613] [INFO] console - stderr=Can't open '/Users/pingda/Desktop/任务/art_imgExport/routes/echarts-convert.js'
+
+[2016-08-16 18:04:06.911] [INFO] console - exit=255
+[2016-08-16 18:04:06.925] [INFO] normal - POST /echarts
+[2016-08-16 18:04:33.940] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:04:35.852] [INFO] console - stderr=Can't open '/Users/pingda/Desktop/任务/art_imgExport/routes/echarts-convert.js'
+
+[2016-08-16 18:04:37.644] [INFO] console - exit=255
+[2016-08-16 18:04:37.647] [INFO] normal - POST /echarts
+[2016-08-16 18:08:37.715] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:08:41.545] [INFO] console - exit=0
+[2016-08-16 18:08:41.565] [INFO] normal - POST /echarts
+[2016-08-16 18:11:39.895] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:11:44.007] [INFO] console - exit=0
+[2016-08-16 18:11:44.024] [INFO] normal - POST /echarts
+[2016-08-16 18:20:11.378] [INFO] console - dddddddir==/Users/pingda/Desktop/任务/art_imgExport/routes
+[2016-08-16 18:20:14.398] [INFO] console - exit=0
+[2016-08-16 18:20:14.403] [INFO] normal - POST /echarts
